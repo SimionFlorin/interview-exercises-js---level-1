@@ -28,20 +28,30 @@ Welcome! This folder contains React exercises themed around the "Celestial Horiz
 
 Please attempt them in order.
 
-### Exercise 1: Angel Number Filter (15-20 min)
+### Exercise 1: Angel Number Filter 
 *   **File**: `exercise-1-angel-number-filter.jsx`
 *   **Goal**: Implement a real-time search filter for "Angel Numbers" and their meanings.
 *   **Key Skills**: `useState`, array filtering, conditional rendering.
 
-### Exercise 2: Daily Horoscope Fetcher (30 min)
+### Exercise 2: Daily Horoscope Fetcher 
 *   **File**: `exercise-2-horoscope-fetcher.jsx`
 *   **Goal**: Build a component that simulates fetching daily horoscopes from an API.
 *   **Key Skills**: `useEffect`, async operation simulation, handling loading and error states.
 
-### Exercise 3: Tarot Card Memory Game (45-50 min)
+### Exercise 3: Tarot Card Memory Game
 *   **File**: `exercise-3-tarot-memory-game.jsx`
 *   **Goal**: Create a memory matching game using Tarot cards.
 *   **Key Skills**: Complex state management, game logic, event handling.
+
+### Exercise 4: Zodiac Compatibility Calculator 
+*   **File**: `exercise-4-zodiac-compatibility.jsx`
+*   **Goal**: Create a form that calculates compatibility between two zodiac signs.
+*   **Key Skills**: Complex form handling, input validation, object manipulation, conditional rendering.
+
+### Exercise 5: Real-time Reading Counter 
+*   **File**: `exercise-5-reading-counter.jsx`
+*   **Goal**: Create a reading time tracker with pause/resume, progress bar, and statistics.
+*   **Key Skills**: `useEffect` cleanup, `setInterval`/`clearInterval`, `useRef`, derived state calculations.
 
 ## 💡 Context
 
